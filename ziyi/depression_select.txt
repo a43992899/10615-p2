@@ -1,0 +1,22 @@
+('want', 'die')		523 / ('suicidal', 'thought')		165 / ('attempted', 'suicide')		75
+('depression', 'anxiety')		302 / ('deep', 'depression')		50 / ('struggling', 'depression')		34
+('feel', 'alone')		130
+('self', 'harm')		129
+('feel', 'guilty')		91
+('feel', 'empty')		76 / ('feel', 'worthless')		64
+('stop', 'thinking')		64
+('fall', 'asleep')		60
+('talk', 'anyone')		60
+('close', 'friend')		59
+('falling', 'apart')		55
+('cure', 'depression')		51
+('like', 'burden')		51
+('suffer', 'depression')		45
+('like', 'failure')		44
+('enjoy', 'life')		43
+('eating', 'disorder')		39
+('im', 'tired')		37
+('year', 'relationship')		35
+('cannabis', 'ease')		33
+('enough', 'money')		33
+('hypnotherapy', 'healing')		3

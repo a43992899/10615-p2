@@ -1,0 +1,24 @@
+('Oedipus', 'complex')
+('social', 'order')
+('unto', 'repentance')
+('unto', 'Jesus')
+('signs', 'God')
+('manifest', 'unto')
+('nature', 'good')
+('object', 'desire')
+('political', 'struggle')
+('true', 'world')
+('necessary', 'connection')
+('principle', 'identity')
+('light', 'truth')
+('present', 'mind')
+('morally', 'good')
+('distinctive', 'points')
+('pure', 'priori')
+('transcendental', 'idealism')
+('judgement', 'taste')		190
+('would', 'give')		189
+('highest', 'good')		186
+('civil', 'society')		184
+('power', 'judgement')		184
+('heaven', 'earth')		179

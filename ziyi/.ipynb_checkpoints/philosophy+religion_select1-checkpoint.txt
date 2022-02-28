@@ -1,0 +1,27 @@
+('Jesus', 'Christ')		653
+('one', 'must')		614
+('moral', 'law')		568
+('pure', 'reason')		566
+('must', 'also')		552
+('one', 'might')		437
+('must', 'necessarily')		360
+('shall', 'know')		350
+('neither', 'shall')		348
+('shall', 'make')		345
+('natural', 'science')		339
+('Holy', 'Ghost')		326
+('upon', 'earth')		298
+('soul', 'body')		274
+('Lord', 'Jesus')		265
+('phenomenology', 'perception')		250
+('shall', 'fall')		245
+('sin', 'offering')		236
+('animal', 'spirits')		233
+('could', 'never')		227
+('always', 'already')		227
+('body', 'without')		220
+('body', 'soul')		220
+('one', 'body')		203
+('human', 'reality')		203
+('objective', 'reality')		200
+
